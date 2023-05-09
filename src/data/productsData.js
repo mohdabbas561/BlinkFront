@@ -541,7 +541,124 @@ const productsData = [
          description: "Effortlessly Glide Through Your Clothes with Non-Stick Coated Sole-plate.The AXEL DRY IRON is the perfect solution for those looking to get their ironing done quickly and efficiently. With a non-stick coated sole-plate, you can glide effortlessly over all types of fabrics, making ironing a breeze. Say goodbye to stubborn creases and hello to perfectly pressed clothes.Safe and Convenient with Shock Proof Body and 180° Swivel Cord.The safety of our customers is of utmost importance to us, which is why the AXEL DRY IRON comes with a shock proof body. This ensures that even in case of any accidental shocks, you remain protected. Additionally, the 180° swivel cord makes ironing even more convenient, as it allows for easy maneuverability without any tangled cords.Experience Comfortable Ironing with Ergonomic Handle and Anti-bacterial Coating.We understand that ironing can be a tiresome task, which is why we have designed the AXEL DRY IRON with an ergonomic handle for maximum comfort during use. Furthermore, the anti-bacterial coating on the iron prevents the growth of bacteria, making it a hygienic option for your clothes. ",
          path: "/product-details/",
      },
-    
+     {
+        id: 18,
+        images: [
+           "/images/products/Mirage_Brown.png",
+        ],
+        brand: "Blinken",
+        title: "BLINKen Ceiling-Fan-Mirage-1200mm(Smoke Brown)",
+        category: "Home Appliances",
+        rpm:"400",
+        stator: "100% Copper",
+        motion: "Concealed double ball bearings",
+        finalPrice: 1198,
+        originalPrice: 3199,
+        quantity: 1,
+        description: "Experience Unbeatable Comfort with Blinken Mirage Ceiling Fan Are you tired of suffering through hot, stuffy days and nights? Look no further than the Blinken Mirage 1200 Mm 3 Blade Ceiling Fan in Smoke Brown. With its powerful 50W motor and 400 RPM motor speed, this fan provides instant comfort by achieving high performance quickly. Say goodbye to sweating and hello to cool, refreshing air.Durable and Reliable Ceiling Fan for Long-lasting Comfort Invest in your comfort with the Blinken Mirage 1200 Mm 3 Blade Ceiling Fan. With its double ball bearing, this fan increases load bearing capacity and durability, ensuring it can withstand years of use. The ribbed blades improve blade stability, making it a reliable choice for your home or office. Plus, with a 5-year warranty on the product, you can rest assured that you're making a wise investment in your comfort.Easy to Control and Mount for Ultimate ConvenienceNot only is the Blinken Mirage 1200 Mm 3 Blade Ceiling Fan powerful and durable, it's also easy to control and mount. With button control, you can adjust the fan speed to your desired level with ease. The down-rod mounting type makes installation simple, so you can start enjoying cool air in no time. Plus, with its aluminium material type, this fan is both lightweight and strong, making it an ideal choice for any home. ",
+        path: "/product-details/",
+    },
+
+    {
+        id: 19,
+        images: [
+           "/images/products/Mirage_Ivory.png",
+        ],
+        brand: "Blinken",
+        title: "BLINKen Ceiling-Fan-Mirage-1200mm(ivory Glow)",
+        category: "Home Appliances",
+        rpm:"400",
+        stator: "100% Copper",
+        motion: "Concealed double ball bearings",
+        quantity: 1,
+        description: "Experience Unbeatable Comfort with Blinken Mirage Ceiling Fan Are you tired of suffering through hot, stuffy days and nights? Look no further than the Blinken Mirage 1200 Mm 3 Blade Ceiling Fan in Smoke Brown. With its powerful 50W motor and 400 RPM motor speed, this fan provides instant comfort by achieving high performance quickly. Say goodbye to sweating and hello to cool, refreshing air.Durable and Reliable Ceiling Fan for Long-lasting Comfort Invest in your comfort with the Blinken Mirage 1200 Mm 3 Blade Ceiling Fan. With its double ball bearing, this fan increases load bearing capacity and durability, ensuring it can withstand years of use. The ribbed blades improve blade stability, making it a reliable choice for your home or office. Plus, with a 5-year warranty on the product, you can rest assured that you're making a wise investment in your comfort.Easy to Control and Mount for Ultimate ConvenienceNot only is the Blinken Mirage 1200 Mm 3 Blade Ceiling Fan powerful and durable, it's also easy to control and mount. With button control, you can adjust the fan speed to your desired level with ease. The down-rod mounting type makes installation simple, so you can start enjoying cool air in no time. Plus, with its aluminium material type, this fan is both lightweight and strong, making it an ideal choice for any home. ",
+        path: "/product-details/",
+        finalPrice: 1198,
+        originalPrice: 3199,
+        quantity: 1,
+       
+        description: "Effortlessly Glide Through Your Clothes with Non-Stick Coated Sole-plate.The AXEL DRY IRON is the perfect solution for those looking to get their ironing done quickly and efficiently. With a non-stick coated sole-plate, you can glide effortlessly over all types of fabrics, making ironing a breeze. Say goodbye to stubborn creases and hello to perfectly pressed clothes.Safe and Convenient with Shock Proof Body and 180° Swivel Cord.The safety of our customers is of utmost importance to us, which is why the AXEL DRY IRON comes with a shock proof body. This ensures that even in case of any accidental shocks, you remain protected. Additionally, the 180° swivel cord makes ironing even more convenient, as it allows for easy maneuverability without any tangled cords.Experience Comfortable Ironing with Ergonomic Handle and Anti-bacterial Coating.We understand that ironing can be a tiresome task, which is why we have designed the AXEL DRY IRON with an ergonomic handle for maximum comfort during use. Furthermore, the anti-bacterial coating on the iron prevents the growth of bacteria, making it a hygienic option for your clothes. ",
+        path: "/product-details/",
+    },
+
+    {
+        id: 20,
+        images: [
+           "/images/products/Apache_Brown.png",
+        ],
+        brand: "Blinken",
+        title: "BLINKen Ceiling-Fan-Apache-1200mm(Smoke Brown)",
+        category:"Home Appliances",
+        rpm:"400",
+        stator: "100% Copper",
+        motion: "Concealed double ball bearings",
+        finalPrice: 1226,
+        originalPrice: 3399,
+        quantity: 1,
+       
+        description: "Experience Unmatched Comfort with Apache Ceiling Fan's High RPM Looking for a ceiling fan that provides maximum comfort and relaxation during hot weather? Look no further than the Apache Ceiling Fan. With an incredible RPM of 400, this fan delivers unparalleled airflow that creates a soothing and relaxing environment in your home or office. Whether you're in your living room, bedroom, or workspace, the Apache Ceiling Fan ensuresyou're cool and comfortable all day long. You can even choose between two elegant color options: Smoke Brown or Ivory Glow.Enjoy High Performance and Durability Apache Ceiling Fan is built to last. Its 100% copper stator ensures that the fan delivers high performance and lasts for a long time. Copper is a highly conductive material that efficiently transfers electricity, making the fan operate smoothly and effectively. The Apache Ceiling Fan's 100% copper stator also helps to prevent overheating, thus increasing the fan's lifespan. With its sturdy construction and reliable performance, the Apache Ceiling Fan is the perfect choice for your cooling needs Enjoy Quiet and Smooth Operation with Apache Ceiling Fan's Concealed Double Ball Bearings Looking for a ceiling fan that doesn't create distracting noise when operating? The Apache Ceiling Fan comes with concealed double ball bearings that ensure quiet and smooth operation. These bearings are designed to reduce friction and noise, providing you with a peaceful and serene environment. You can enjoy the fan's soothing breeze without any annoying noises, making it perfect for bedrooms, nurseries, and other quiet spaces.",
+        path: "/product-details/",
+    },
+
+    {
+        id: 21,
+        images: [
+           "/images/products/Apache_Ivory.png",
+        ],
+        brand: "Blinken",
+        title: "BLINKen Ceiling-Fan-Apache-1200mm(ivory Glow)",
+        category:"Home Appliances",
+        rpm:"400",
+        stator: "100% Copper",
+        motion: "Concealed double ball bearings",
+       
+        finalPrice: 1226,
+        originalPrice: 3399,
+        quantity: 1,
+       
+        description: "Experience Unmatched Comfort with Apache Ceiling Fan's High RPM Looking for a ceiling fan that provides maximum comfort and relaxation during hot weather? Look no further than the Apache Ceiling Fan. With an incredible RPM of 400, this fan delivers unparalleled airflow that creates a soothing and relaxing environment in your home or office. Whether you're in your living room, bedroom, or workspace, the Apache Ceiling Fan ensuresyou're cool and comfortable all day long. You can even choose between two elegant color options: Smoke Brown or Ivory Glow.Enjoy High Performance and Durability Apache Ceiling Fan is built to last. Its 100% copper stator ensures that the fan delivers high performance and lasts for a long time. Copper is a highly conductive material that efficiently transfers electricity, making the fan operate smoothly and effectively. The Apache Ceiling Fan's 100% copper stator also helps to prevent overheating, thus increasing the fan's lifespan. With its sturdy construction and reliable performance, the Apache Ceiling Fan is the perfect choice for your cooling needs Enjoy Quiet and Smooth Operation with Apache Ceiling Fan's Concealed Double Ball Bearings Looking for a ceiling fan that doesn't create distracting noise when operating? The Apache Ceiling Fan comes with concealed double ball bearings that ensure quiet and smooth operation. These bearings are designed to reduce friction and noise, providing you with a peaceful and serene environment. You can enjoy the fan's soothing breeze without any annoying noises, making it perfect for bedrooms, nurseries, and other quiet spaces.",
+        path: "/product-details/",
+    },
+
+    {
+        id: 22,
+        images: [
+           "/images/products/Hercules_Brown.png",
+        ],
+        brand: "Blinken",
+        title: "BLINKen Ceiling-Fan-Hercules-1200mm(Smoke Brown)",
+        category:"Home Appliances",
+        rpm:"400",
+        stator: "100% Copper",
+        motion: "Concealed double ball bearings",
+       
+        finalPrice: 1346,
+        originalPrice: 3599,
+        quantity: 1,
+       
+        description: "Powerful Performance with 100% Copper Stator Looking for a ceiling fan that offers powerful performance and energy efficiency? Look no further than the Herculus Ceiling Fan! With a 100% copper stator, this fan delivers reliable and consistent performance, making it an ideal choice for any room in your home. Whether you're looking to cool down on a hot summer day or simply circulate air to keep your space comfortable, the Herculus Ceiling Fan is up to the task. Smooth and Silent Operation with Concealed Double Ball Bearings Tired of noisy and clunky ceiling fans that disrupt your peaceful environment? The Herculus Ceiling Fan offers a solution with its concealed double ball bearings that deliver smooth and silent operation. Say goodbye to annoying rattling or buzzing and enjoy the gentle and calming breeze that this fan provides. Whether you're trying to relax in your bedroom or concentrate in your home office, the Herculus Ceiling Fan won't let you down.Stylish Design with Customizable Color Options Looking for a ceiling fan that not only performs well but also looks great in your space? The Herculus Ceiling Fan offers a stylish design with customizable color options. Choose between the sophisticated Smoke Brown or the elegant Ivory Glow, both of which are complemented by unique design elements that add a touch of sophistication to any room. With the Herculus Ceiling Fan, you don't have to sacrifice style for performance ",
+        path: "/product-details/",
+    },
+
+    {
+        id: 23,
+        images: [
+           "/images/products/Hercules_Ivory.png",
+        ],
+        brand: "Blinken",
+        title: "BLINKen Ceiling-Fan-Hercules-1200mm(Ivory Glow)",
+        category:"Home Appliances",
+        rpm:"400",
+        stator: "100% Copper",
+        motion: "Concealed double ball bearings",
+       
+        finalPrice: 1346,
+        originalPrice: 3599,
+        quantity: 1,
+       
+        description: "Powerful Performance with 100% Copper Stator Looking for a ceiling fan that offers powerful performance and energy efficiency? Look no further than the Herculus Ceiling Fan! With a 100% copper stator, this fan delivers reliable and consistent performance, making it an ideal choice for any room in your home. Whether you're looking to cool down on a hot summer day or simply circulate air to keep your space comfortable, the Herculus Ceiling Fan is up to the task. Smooth and Silent Operation with Concealed Double Ball Bearings Tired of noisy and clunky ceiling fans that disrupt your peaceful environment? The Herculus Ceiling Fan offers a solution with its concealed double ball bearings that deliver smooth and silent operation. Say goodbye to annoying rattling or buzzing and enjoy the gentle and calming breeze that this fan provides. Whether you're trying to relax in your bedroom or concentrate in your home office, the Herculus Ceiling Fan won't let you down.Stylish Design with Customizable Color Options Looking for a ceiling fan that not only performs well but also looks great in your space? The Herculus Ceiling Fan offers a stylish design with customizable color options. Choose between the sophisticated Smoke Brown or the elegant Ivory Glow, both of which are complemented by unique design elements that add a touch of sophistication to any room. With the Herculus Ceiling Fan, you don't have to sacrifice style for performance ",
+        path: "/product-details/",
+    },
 ];
 
 export default productsData;

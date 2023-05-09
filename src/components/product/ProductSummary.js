@@ -82,6 +82,8 @@ const ProductSummary = (props) => {
     descriptionHeading,
     descriptionList,
     descriptionPara,
+    stator,
+    motion,
   } = props;
 
   const { active, handleActive, activeClass } = useActive("specs");
@@ -105,7 +107,6 @@ const ProductSummary = (props) => {
               >
                 Overview
               </li>
-              
             </ul>
           </div>
 
@@ -609,22 +610,29 @@ const ProductSummary = (props) => {
                       <span>{operating}</span>
                     </li>
                   ) : null}
+                  {stator ? (
+                    <li>
+                      <span> Stator</span>
+                      <span>{stator}</span>
+                    </li>
+                  ) : null}
 
-                  
+                  {motion ? (
+                    <li>
+                      <span> Motion</span>
+                      <span>{motion}</span>
+                    </li>
+                  ) : null}
                 </ul>
               </div>
             ) : active === "overview" ? (
               <div className="prod_overview">
-                
                 <ul>
                   <li>{description}</li>
                 </ul>
-                
               </div>
             ) : (
-              <div className="prod_reviews">
-                
-              </div>
+              <div className="prod_reviews"></div>
             )}
           </div>
         </div>
