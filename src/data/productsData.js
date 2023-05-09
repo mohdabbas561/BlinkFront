@@ -37,7 +37,7 @@ const productsData = [
         id: 2,
         tag: "featured-product",
         images: [
-            "/images/products/32inch.png",
+            "/images/products/32Inch.png",
             "/images/products/tv-32-2.png",
         ],
         brand: "Blinken",
@@ -73,7 +73,7 @@ const productsData = [
          tagline: "LG 8 Kg 5 Star Semi-Automatic Top Loading Washing Machine",
          heroImage: "https:trapthedeal.dousoftit.com/uploads/slider/New%20banner-03.jpg",
         images: [
-            "/images/products/43inch.png",
+            "/images/products/43Inch.png",
             "/images/products/tv-43-2.png",
         ],
         brand: "Blinken",
