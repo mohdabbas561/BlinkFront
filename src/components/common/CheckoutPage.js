@@ -56,7 +56,7 @@ const CheckoutPage = () => {
     event.preventDefault();
 
     axios
-      .post("http://localhost:5000/payment/orders", { displayTotalAmount })
+      .post("https://blinkback.onrender.com/payment/orders", { displayTotalAmount })
       .then((res) => {
         console.log(res.data);
       });
@@ -88,7 +88,7 @@ const CheckoutPage = () => {
   //         return;
   //     }
 
-  //     const result = await axios.post("http://localhost:5000/payment/orders");
+  //     const result = await axios.post("https://blinkback.onrender.com/payment/orders");
 
   //     if (!result) {
   //         alert("Server error. Are you online?");
@@ -113,7 +113,7 @@ const CheckoutPage = () => {
   //                 razorpaySignature: response.razorpay_signature,
   //             };
 
-  //             const result = await axios.post("http://localhost:5000/payment/success", data);
+  //             const result = await axios.post("https://blinkback.onrender.com/payment/success", data);
 
   //             alert(result.data.msg);
   //         },
@@ -194,7 +194,7 @@ const CheckoutPage = () => {
       handler: function (response) {
         console.log(response, "34");
         axios
-          .post("http://localhost:5000/payment/success", { response : response })
+          .post("https://blinkback.onrender.com/payment/success", { response : response })
           .then((res) => {
             console.log(res, "37");
             if (res.status==200) {
@@ -229,7 +229,7 @@ const CheckoutPage = () => {
   const handlePayment = (amount) => {
     const _data = { amount: amount };
     axios
-      .post("http://localhost:5000/payment/orders", _data)
+      .post("https://blinkback.onrender.com/payment/orders", _data)
       .then((res) => {
         console.log(res.data, "29");
         handleOpenRazorpay(res.data.data);
